@@ -29,8 +29,8 @@
   "homepage": "https://github.com/tap-format/spec#readme",
   "dependencies": {
     "@tap-format/exit": "0.2.0",
-    "@tap-format/failures": "git+https://github.com/SneakyMax/failures.git",
-    "@tap-format/parser": "git+https://github.com/SneakyMax/parser.git",
+    "@tap-format/failures": "git+https://github.com/iconic-engine-hito/failures.git",
+    "@tap-format/parser": "git+https://github.com/iconic-engine-hito/parser.git",
     "@tap-format/results": "0.2.0",
     "chalk": "^1.1.1",
     "figures": "^1.4.0",
